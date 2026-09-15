@@ -1,0 +1,29 @@
+{
+  "gridlines": false,
+  "data": {
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "values": [
+      41,
+      37,
+      71,
+      67,
+      30
+    ]
+  },
+  "chart_width": 800,
+  "chart_height": 600,
+  "bar_width": 0.6,
+  "tick_spacing": 20,
+  "background_color": "#FFFFFF",
+  "axis_min": 0,
+  "axis_max": 100,
+  "font_family": "DejaVu Sans",
+  "font_size": 12,
+  "bar_color": "#4C72B0"
+}

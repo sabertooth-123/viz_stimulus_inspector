@@ -1,0 +1,121 @@
+pair_id,label,verdict,unexpected_differences
+valid_000,valid,VALID,[]
+valid_001,valid,VALID,[]
+valid_002,valid,VALID,[]
+valid_003,valid,VALID,[]
+valid_004,valid,VALID,[]
+valid_005,valid,VALID,[]
+valid_006,valid,VALID,[]
+valid_007,valid,VALID,[]
+valid_008,valid,VALID,[]
+valid_009,valid,VALID,[]
+valid_010,valid,VALID,[]
+valid_011,valid,VALID,[]
+valid_012,valid,VALID,[]
+valid_013,valid,VALID,[]
+valid_014,valid,VALID,[]
+valid_015,valid,VALID,[]
+valid_016,valid,VALID,[]
+valid_017,valid,VALID,[]
+valid_018,valid,VALID,[]
+valid_019,valid,VALID,[]
+font_confound_000,font_confound,VALID,[]
+font_confound_001,font_confound,VALID,[]
+font_confound_002,font_confound,VALID,[]
+font_confound_003,font_confound,VALID,[]
+font_confound_004,font_confound,VALID,[]
+font_confound_005,font_confound,VALID,[]
+font_confound_006,font_confound,VALID,[]
+font_confound_007,font_confound,VALID,[]
+font_confound_008,font_confound,VALID,[]
+font_confound_009,font_confound,VALID,[]
+font_confound_010,font_confound,VALID,[]
+font_confound_011,font_confound,VALID,[]
+font_confound_012,font_confound,VALID,[]
+font_confound_013,font_confound,VALID,[]
+font_confound_014,font_confound,VALID,[]
+font_confound_015,font_confound,VALID,[]
+font_confound_016,font_confound,VALID,[]
+font_confound_017,font_confound,VALID,[]
+font_confound_018,font_confound,VALID,[]
+font_confound_019,font_confound,VALID,[]
+color_confound_000,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two charts (blue in the first, green in the second)""]"
+color_confound_001,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue vs purplish-blue)""]"
+color_confound_002,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two charts (blue in the first, green in the second)""]"
+color_confound_003,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue in the first image, red in the second image)""]"
+color_confound_004,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue vs orange/brown)""]"
+color_confound_005,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two charts (blue in the first, orange in the second)""]"
+color_confound_006,color_confound,CONFOUND_DETECTED,"[""Bar color is blue in the first image and orange/brown in the second image""]"
+color_confound_007,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue in the first, green in the second)""]"
+color_confound_008,color_confound,CONFOUND_DETECTED,"[""Bar color is different between the two images (blue vs. purplish-blue/slate)""]"
+color_confound_009,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue vs orange/brown)""]"
+color_confound_010,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue in the first image, purple/slate in the second image)""]"
+color_confound_011,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue in the first image, green in the second image).""]"
+color_confound_012,color_confound,CONFOUND_DETECTED,"[""Bar color is blue in the first image and green in the second image.""]"
+color_confound_013,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue vs. purplish-blue).""]"
+color_confound_014,color_confound,CONFOUND_DETECTED,"[""Bar color is blue in the first chart and orange/brown in the second chart.""]"
+color_confound_015,color_confound,CONFOUND_DETECTED,"[""Bar color is blue in the first image and red/brown in the second image""]"
+color_confound_016,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue vs orange/brown)""]"
+color_confound_017,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue in the first, orange/brown in the second).""]"
+color_confound_018,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue in the first image, purple/slate in the second image)""]"
+color_confound_019,color_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue vs. purplish-grey)""]"
+axis_confound_000,axis_confound,CONFOUND_DETECTED,"[""The underlying data values differ between the two charts (bar heights and data values are completely different)."", ""The y-axis range and tick spacing differ (Image 1 ranges from 0 to 100 with steps of 20; Image 2 ranges from 5 to 105 with steps of 20 at values 5, 25, 45, 65, 85, 105).""]"
+axis_confound_001,axis_confound,CONFOUND_DETECTED,"[""underlying data values are different"", ""y-axis range and tick spacing are different""]"
+axis_confound_002,axis_confound,CONFOUND_DETECTED,"[""Y-axis range and tick values are completely different (Image 1: 0 to 100 with step 20; Image 2: 15 to 115 with step 20)"", ""Underlying data values appear shifted due to the changed y-axis scale""]"
+axis_confound_003,axis_confound,CONFOUND_DETECTED,"[""Y-axis range and tick spacing are different (Image 1: 0 to 100 with step 20; Image 2: 15 to 115 with step 20)""]"
+axis_confound_004,axis_confound,CONFOUND_DETECTED,"[""Y-axis range and tick spacing are different (Image 1: 0 to 100 with step 20; Image 2: 15 to 115 with step 20)"", ""Underlying bar values appear shifted due to the Y-axis range change""]"
+axis_confound_005,axis_confound,CONFOUND_DETECTED,"[""Y-axis tick spacing and range changed (Image 1: 0 to 100 with step 20; Image 2: 5 to 105 with step 20)""]"
+axis_confound_006,axis_confound,CONFOUND_DETECTED,"[""Axis range and tick marks are completely different between the two images (Image 1 has range 0 to 100 with steps of 20; Image 2 has range 15 to 115 with steps of 20)""]"
+axis_confound_007,axis_confound,CONFOUND_DETECTED,"[""Y-axis range and tick labels differ between the two images (Image 1: 0 to 100 with step 20; Image 2: 15 to 115 with step 20)"", ""Bar heights/values differ between the two images due to changed data or scaling""]"
+axis_confound_008,axis_confound,CONFOUND_DETECTED,"[""The y-axis range and tick intervals are different between the two images (Image 1 ranges from 0 to 100 with steps of 20; Image 2 ranges from 10 to 110 with steps of 20)."", ""The underlying data values for the bars are different (e.g., bar A is around 86 in Image 1 and around 88 in Image 2).""]"
+axis_confound_009,axis_confound,CONFOUND_DETECTED,"[""Y-axis tick spacing and range changed (Image 1: 0, 20, 40, 60, 80, 100; Image 2: 5, 25, 45, 65, 85, 105)"", ""Underlying data values for all bars changed (heights are different between images)""]"
+axis_confound_010,axis_confound,CONFOUND_DETECTED,"[""Y-axis range and tick spacing changed from [0, 20, 40, 60, 80, 100] to [10, 30, 50, 70, 90, 110]""]"
+axis_confound_011,axis_confound,CONFOUND_DETECTED,"[""Y-axis range and tick intervals are different (Image 1: 0 to 100 with step 20; Image 2: 5 to 105 with step 20)"", ""Underlying data values for bars A, B, C, D, E are different between the two images""]"
+axis_confound_012,axis_confound,CONFOUND_DETECTED,"[""Axis range and tick spacing changed (Image 1 goes from 0 to 100 with step 20; Image 2 goes from 5 to 105 with step 20, resulting in different tick labels)."", ""Underlying bar data values changed (e.g., bar A goes from 40 to 42, B from 29 to 30, C from 21 to 23, D from 70 to 71, E from 92 to 92).""]"
+axis_confound_013,axis_confound,CONFOUND_DETECTED,"[""Axis range and tick spacing differ: Image 1 goes from 0 to 100 with steps of 20, while Image 2 goes from 10 to 110 with steps of 20.""]"
+axis_confound_014,axis_confound,CONFOUND_DETECTED,"[""Axis range and tick spacing are different (Image 1 has range 0-100 with steps of 20; Image 2 has range 15-115 with steps of 20, resulting in different Y-axis values and tick positions)."", ""The underlying bar data values appear to be shifted or different between the two charts.""]"
+axis_confound_015,axis_confound,CONFOUND_DETECTED,"[""Y-axis tick labels and scale changed completely (first image: 0, 20, 40, 60, 80, 100; second image: 5, 25, 45, 65, 85, 105)"", ""Underlying data values for the bars appear to have changed (the heights relative to the Y-axis scale and tick positions differ)""]"
+axis_confound_016,axis_confound,CONFOUND_DETECTED,"[""The underlying data values have changed between the two charts (bar heights are different)."", ""The y-axis range and tick intervals are different (Image 1: 0 to 100 with step 20; Image 2: 5 to 105 with step 20).""]"
+axis_confound_017,axis_confound,CONFOUND_DETECTED,"[""Y-axis range and tick values are different between the two charts (Image 1: 0 to 100 with steps of 20; Image 2: 15 to 115 with steps of 20), causing changes in bar heights and positions relative to the axes.""]"
+axis_confound_018,axis_confound,CONFOUND_DETECTED,"[""Axis range and tick spacing differ: Image 1 has y-axis from 0 to 100 with steps of 20; Image 2 has y-axis from 5 to 105 with steps of 20 (ticks at 5, 25, 45, 65, 85, 105)."", ""Underlying data values differ, causing the bar heights to change across images.""]"
+axis_confound_019,axis_confound,CONFOUND_DETECTED,"[""Y-axis tick spacing and range differ (Image 1: 0 to 100 by 20s, Image 2: 5 to 105 by 20s)"", ""Underlying data values for bars A, B, C, D, E differ between the two images""]"
+dimension_confound_000,dimension_confound,VALID,[]
+dimension_confound_001,dimension_confound,VALID,[]
+dimension_confound_002,dimension_confound,VALID,[]
+dimension_confound_003,dimension_confound,VALID,[]
+dimension_confound_004,dimension_confound,VALID,[]
+dimension_confound_005,dimension_confound,VALID,[]
+dimension_confound_006,dimension_confound,VALID,[]
+dimension_confound_007,dimension_confound,VALID,[]
+dimension_confound_008,dimension_confound,VALID,[]
+dimension_confound_009,dimension_confound,VALID,[]
+dimension_confound_010,dimension_confound,VALID,[]
+dimension_confound_011,dimension_confound,VALID,[]
+dimension_confound_012,dimension_confound,VALID,[]
+dimension_confound_013,dimension_confound,VALID,[]
+dimension_confound_014,dimension_confound,VALID,[]
+dimension_confound_015,dimension_confound,VALID,[]
+dimension_confound_016,dimension_confound,VALID,[]
+dimension_confound_017,dimension_confound,VALID,[]
+dimension_confound_018,dimension_confound,VALID,[]
+dimension_confound_019,dimension_confound,VALID,[]
+multi_confound_000,multi_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue vs. purplish-blue).""]"
+multi_confound_001,multi_confound,CONFOUND_DETECTED,"[""Bar color changed from blue to red"", ""Y-axis range and tick spacing changed (0-100 by 20 vs 5-105 by 20)""]"
+multi_confound_002,multi_confound,CONFOUND_DETECTED,"[""Axis range and tick spacing differ between the two charts (Image 1: 0 to 100 with step 20; Image 2: 5 to 105 with step 20)""]"
+multi_confound_003,multi_confound,CONFOUND_DETECTED,"[""Bar color differs between the two images (blue vs green)""]"
+multi_confound_004,multi_confound,CONFOUND_DETECTED,"[""Bar color is different (blue vs green)"", ""Y-axis range and scale are different (0-100 vs 15-115)"", ""Y-axis tick spacing and values are different""]"
+multi_confound_005,multi_confound,CONFOUND_DETECTED,"[""Axis range is different (Image 1: 0 to 100 with steps of 20; Image 2: 15 to 115 with steps of 20)"", ""Tick spacing and labels are different""]"
+multi_confound_006,multi_confound,CONFOUND_DETECTED,"[""Axis range and tick marks are different (Image 1: 0 to 100 with step 20; Image 2: 15 to 115 with step 20)"", ""Bar color is different (Image 1: darker blue; Image 2: purplish/periwinkle blue)"", ""Underlying data values for all bars are different (Image 1: [25, 41, 33, 75, 22]; Image 2: [25, 41, 33, 75, 22] shifted relative to new axis or different values entirely)""]"
+multi_confound_007,multi_confound,CONFOUND_DETECTED,"[""Bar color is blue in the first image and red in the second image"", ""Y-axis range and tick spacing are different (Image 1: 0 to 100 with steps of 20; Image 2: 15 to 115 with steps of 20)""]"
+multi_confound_008,multi_confound,CONFOUND_DETECTED,"[""The y-axis range and tick spacing are completely different between the two images (0 to 100 with steps of 20 in the first, 15 to 115 with steps of 20 in the second)."", ""The underlying bar values/heights are also shifted up slightly due to the y-axis scale change.""]"
+multi_confound_009,multi_confound,CONFOUND_DETECTED,"[""Bar color changed from blue to orange"", ""Y-axis scale/range changed (Image 1 goes from 0 to 100 with steps of 20; Image 2 goes from 5 to 105 with steps of 20)"", ""Data values changed for categories B and C""]"
+multi_confound_010,multi_confound,CONFOUND_DETECTED,"[""Bar color changed from blue to red"", ""Y-axis scale range changed from 0-100 to 10-110"", ""Y-axis tick intervals changed from increments of 20 to increments of 20 starting at 10""]"
+multi_confound_011,multi_confound,CONFOUND_DETECTED,"[""Y-axis range and tick values differ between the two images (Image 1 ranges from 0 to 100 with steps of 20; Image 2 ranges from 15 to 115 with steps of 20)."", ""Bar heights differ because the underlying data scale/axis range changed.""]"
+multi_confound_012,multi_confound,CONFOUND_DETECTED,"[""Bar color is different (blue vs green)"", ""Y-axis range and tick spacing are different (0 to 100 by 20 vs 10 to 110 by 20)""]"
+multi_confound_013,multi_confound,CONFOUND_DETECTED,"[""Y-axis range and tick spacing differ: Image 1 ranges from 0 to 100 with steps of 20, while Image 2 ranges from 10 to 110 with steps of 20.""]"
+multi_confound_014,multi_confound,CONFOUND_DETECTED,"[""Y-axis range and scale are different (Image 1 ranges from 0 to 100 with steps of 20; Image 2 ranges from 15 to 115 with steps of 20)"", ""Underlying data values for all bars are different between the two images""]"
+multi_confound_015,multi_confound,VALID,[]
+multi_confound_016,multi_confound,CONFOUND_DETECTED,"[""Bar color is different between the two charts (blue vs purplish-blue)"", ""Y-axis range and tick spacing/labels are different (0 to 100 with step 20 vs 5 to 105 with step 20)""]"
+multi_confound_017,multi_confound,CONFOUND_DETECTED,"[""Bar color is different between the two charts."", ""Y-axis range and tick spacing are different (first chart ranges 0-100 with steps of 20, second chart ranges 5-105 with steps of 20)."", ""Underlying data values appear to be shifted or different.""]"
+multi_confound_018,multi_confound,CONFOUND_DETECTED,"[""Axis range and tick spacing differ between the two charts (Image 1 Y-axis ranges from 0 to 100 with steps of 20; Image 2 Y-axis ranges from 10 to 110 with steps of 20)."", ""Underlying bar data values differ between the two charts.""]"
+multi_confound_019,multi_confound,CONFOUND_DETECTED,"[""Bar color is different between the two images (blue vs. purplish-blue).""]"

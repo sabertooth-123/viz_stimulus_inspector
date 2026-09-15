@@ -1,0 +1,962 @@
+[
+  {
+    "pair_id": "valid_000",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_000_A.json",
+    "spec_b": "..\\data\\specs\\valid_000_B.json",
+    "image_a": "..\\data\\stimuli\\valid_000_A.png",
+    "image_b": "..\\data\\stimuli\\valid_000_B.png"
+  },
+  {
+    "pair_id": "valid_001",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_001_A.json",
+    "spec_b": "..\\data\\specs\\valid_001_B.json",
+    "image_a": "..\\data\\stimuli\\valid_001_A.png",
+    "image_b": "..\\data\\stimuli\\valid_001_B.png"
+  },
+  {
+    "pair_id": "valid_002",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_002_A.json",
+    "spec_b": "..\\data\\specs\\valid_002_B.json",
+    "image_a": "..\\data\\stimuli\\valid_002_A.png",
+    "image_b": "..\\data\\stimuli\\valid_002_B.png"
+  },
+  {
+    "pair_id": "valid_003",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_003_A.json",
+    "spec_b": "..\\data\\specs\\valid_003_B.json",
+    "image_a": "..\\data\\stimuli\\valid_003_A.png",
+    "image_b": "..\\data\\stimuli\\valid_003_B.png"
+  },
+  {
+    "pair_id": "valid_004",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_004_A.json",
+    "spec_b": "..\\data\\specs\\valid_004_B.json",
+    "image_a": "..\\data\\stimuli\\valid_004_A.png",
+    "image_b": "..\\data\\stimuli\\valid_004_B.png"
+  },
+  {
+    "pair_id": "valid_005",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_005_A.json",
+    "spec_b": "..\\data\\specs\\valid_005_B.json",
+    "image_a": "..\\data\\stimuli\\valid_005_A.png",
+    "image_b": "..\\data\\stimuli\\valid_005_B.png"
+  },
+  {
+    "pair_id": "valid_006",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_006_A.json",
+    "spec_b": "..\\data\\specs\\valid_006_B.json",
+    "image_a": "..\\data\\stimuli\\valid_006_A.png",
+    "image_b": "..\\data\\stimuli\\valid_006_B.png"
+  },
+  {
+    "pair_id": "valid_007",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_007_A.json",
+    "spec_b": "..\\data\\specs\\valid_007_B.json",
+    "image_a": "..\\data\\stimuli\\valid_007_A.png",
+    "image_b": "..\\data\\stimuli\\valid_007_B.png"
+  },
+  {
+    "pair_id": "valid_008",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_008_A.json",
+    "spec_b": "..\\data\\specs\\valid_008_B.json",
+    "image_a": "..\\data\\stimuli\\valid_008_A.png",
+    "image_b": "..\\data\\stimuli\\valid_008_B.png"
+  },
+  {
+    "pair_id": "valid_009",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_009_A.json",
+    "spec_b": "..\\data\\specs\\valid_009_B.json",
+    "image_a": "..\\data\\stimuli\\valid_009_A.png",
+    "image_b": "..\\data\\stimuli\\valid_009_B.png"
+  },
+  {
+    "pair_id": "valid_010",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_010_A.json",
+    "spec_b": "..\\data\\specs\\valid_010_B.json",
+    "image_a": "..\\data\\stimuli\\valid_010_A.png",
+    "image_b": "..\\data\\stimuli\\valid_010_B.png"
+  },
+  {
+    "pair_id": "valid_011",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_011_A.json",
+    "spec_b": "..\\data\\specs\\valid_011_B.json",
+    "image_a": "..\\data\\stimuli\\valid_011_A.png",
+    "image_b": "..\\data\\stimuli\\valid_011_B.png"
+  },
+  {
+    "pair_id": "valid_012",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_012_A.json",
+    "spec_b": "..\\data\\specs\\valid_012_B.json",
+    "image_a": "..\\data\\stimuli\\valid_012_A.png",
+    "image_b": "..\\data\\stimuli\\valid_012_B.png"
+  },
+  {
+    "pair_id": "valid_013",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_013_A.json",
+    "spec_b": "..\\data\\specs\\valid_013_B.json",
+    "image_a": "..\\data\\stimuli\\valid_013_A.png",
+    "image_b": "..\\data\\stimuli\\valid_013_B.png"
+  },
+  {
+    "pair_id": "valid_014",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_014_A.json",
+    "spec_b": "..\\data\\specs\\valid_014_B.json",
+    "image_a": "..\\data\\stimuli\\valid_014_A.png",
+    "image_b": "..\\data\\stimuli\\valid_014_B.png"
+  },
+  {
+    "pair_id": "valid_015",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_015_A.json",
+    "spec_b": "..\\data\\specs\\valid_015_B.json",
+    "image_a": "..\\data\\stimuli\\valid_015_A.png",
+    "image_b": "..\\data\\stimuli\\valid_015_B.png"
+  },
+  {
+    "pair_id": "valid_016",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_016_A.json",
+    "spec_b": "..\\data\\specs\\valid_016_B.json",
+    "image_a": "..\\data\\stimuli\\valid_016_A.png",
+    "image_b": "..\\data\\stimuli\\valid_016_B.png"
+  },
+  {
+    "pair_id": "valid_017",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_017_A.json",
+    "spec_b": "..\\data\\specs\\valid_017_B.json",
+    "image_a": "..\\data\\stimuli\\valid_017_A.png",
+    "image_b": "..\\data\\stimuli\\valid_017_B.png"
+  },
+  {
+    "pair_id": "valid_018",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_018_A.json",
+    "spec_b": "..\\data\\specs\\valid_018_B.json",
+    "image_a": "..\\data\\stimuli\\valid_018_A.png",
+    "image_b": "..\\data\\stimuli\\valid_018_B.png"
+  },
+  {
+    "pair_id": "valid_019",
+    "label": "valid",
+    "spec_a": "..\\data\\specs\\valid_019_A.json",
+    "spec_b": "..\\data\\specs\\valid_019_B.json",
+    "image_a": "..\\data\\stimuli\\valid_019_A.png",
+    "image_b": "..\\data\\stimuli\\valid_019_B.png"
+  },
+  {
+    "pair_id": "font_confound_000",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_000_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_000_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_000_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_000_B.png"
+  },
+  {
+    "pair_id": "font_confound_001",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_001_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_001_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_001_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_001_B.png"
+  },
+  {
+    "pair_id": "font_confound_002",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_002_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_002_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_002_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_002_B.png"
+  },
+  {
+    "pair_id": "font_confound_003",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_003_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_003_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_003_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_003_B.png"
+  },
+  {
+    "pair_id": "font_confound_004",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_004_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_004_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_004_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_004_B.png"
+  },
+  {
+    "pair_id": "font_confound_005",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_005_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_005_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_005_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_005_B.png"
+  },
+  {
+    "pair_id": "font_confound_006",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_006_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_006_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_006_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_006_B.png"
+  },
+  {
+    "pair_id": "font_confound_007",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_007_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_007_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_007_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_007_B.png"
+  },
+  {
+    "pair_id": "font_confound_008",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_008_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_008_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_008_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_008_B.png"
+  },
+  {
+    "pair_id": "font_confound_009",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_009_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_009_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_009_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_009_B.png"
+  },
+  {
+    "pair_id": "font_confound_010",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_010_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_010_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_010_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_010_B.png"
+  },
+  {
+    "pair_id": "font_confound_011",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_011_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_011_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_011_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_011_B.png"
+  },
+  {
+    "pair_id": "font_confound_012",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_012_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_012_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_012_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_012_B.png"
+  },
+  {
+    "pair_id": "font_confound_013",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_013_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_013_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_013_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_013_B.png"
+  },
+  {
+    "pair_id": "font_confound_014",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_014_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_014_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_014_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_014_B.png"
+  },
+  {
+    "pair_id": "font_confound_015",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_015_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_015_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_015_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_015_B.png"
+  },
+  {
+    "pair_id": "font_confound_016",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_016_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_016_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_016_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_016_B.png"
+  },
+  {
+    "pair_id": "font_confound_017",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_017_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_017_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_017_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_017_B.png"
+  },
+  {
+    "pair_id": "font_confound_018",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_018_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_018_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_018_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_018_B.png"
+  },
+  {
+    "pair_id": "font_confound_019",
+    "label": "font_confound",
+    "spec_a": "..\\data\\specs\\font_confound_019_A.json",
+    "spec_b": "..\\data\\specs\\font_confound_019_B.json",
+    "image_a": "..\\data\\stimuli\\font_confound_019_A.png",
+    "image_b": "..\\data\\stimuli\\font_confound_019_B.png"
+  },
+  {
+    "pair_id": "color_confound_000",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_000_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_000_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_000_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_000_B.png"
+  },
+  {
+    "pair_id": "color_confound_001",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_001_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_001_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_001_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_001_B.png"
+  },
+  {
+    "pair_id": "color_confound_002",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_002_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_002_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_002_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_002_B.png"
+  },
+  {
+    "pair_id": "color_confound_003",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_003_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_003_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_003_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_003_B.png"
+  },
+  {
+    "pair_id": "color_confound_004",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_004_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_004_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_004_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_004_B.png"
+  },
+  {
+    "pair_id": "color_confound_005",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_005_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_005_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_005_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_005_B.png"
+  },
+  {
+    "pair_id": "color_confound_006",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_006_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_006_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_006_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_006_B.png"
+  },
+  {
+    "pair_id": "color_confound_007",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_007_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_007_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_007_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_007_B.png"
+  },
+  {
+    "pair_id": "color_confound_008",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_008_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_008_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_008_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_008_B.png"
+  },
+  {
+    "pair_id": "color_confound_009",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_009_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_009_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_009_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_009_B.png"
+  },
+  {
+    "pair_id": "color_confound_010",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_010_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_010_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_010_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_010_B.png"
+  },
+  {
+    "pair_id": "color_confound_011",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_011_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_011_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_011_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_011_B.png"
+  },
+  {
+    "pair_id": "color_confound_012",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_012_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_012_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_012_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_012_B.png"
+  },
+  {
+    "pair_id": "color_confound_013",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_013_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_013_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_013_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_013_B.png"
+  },
+  {
+    "pair_id": "color_confound_014",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_014_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_014_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_014_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_014_B.png"
+  },
+  {
+    "pair_id": "color_confound_015",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_015_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_015_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_015_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_015_B.png"
+  },
+  {
+    "pair_id": "color_confound_016",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_016_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_016_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_016_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_016_B.png"
+  },
+  {
+    "pair_id": "color_confound_017",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_017_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_017_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_017_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_017_B.png"
+  },
+  {
+    "pair_id": "color_confound_018",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_018_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_018_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_018_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_018_B.png"
+  },
+  {
+    "pair_id": "color_confound_019",
+    "label": "color_confound",
+    "spec_a": "..\\data\\specs\\color_confound_019_A.json",
+    "spec_b": "..\\data\\specs\\color_confound_019_B.json",
+    "image_a": "..\\data\\stimuli\\color_confound_019_A.png",
+    "image_b": "..\\data\\stimuli\\color_confound_019_B.png"
+  },
+  {
+    "pair_id": "axis_confound_000",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_000_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_000_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_000_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_000_B.png"
+  },
+  {
+    "pair_id": "axis_confound_001",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_001_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_001_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_001_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_001_B.png"
+  },
+  {
+    "pair_id": "axis_confound_002",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_002_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_002_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_002_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_002_B.png"
+  },
+  {
+    "pair_id": "axis_confound_003",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_003_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_003_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_003_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_003_B.png"
+  },
+  {
+    "pair_id": "axis_confound_004",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_004_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_004_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_004_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_004_B.png"
+  },
+  {
+    "pair_id": "axis_confound_005",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_005_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_005_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_005_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_005_B.png"
+  },
+  {
+    "pair_id": "axis_confound_006",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_006_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_006_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_006_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_006_B.png"
+  },
+  {
+    "pair_id": "axis_confound_007",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_007_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_007_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_007_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_007_B.png"
+  },
+  {
+    "pair_id": "axis_confound_008",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_008_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_008_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_008_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_008_B.png"
+  },
+  {
+    "pair_id": "axis_confound_009",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_009_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_009_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_009_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_009_B.png"
+  },
+  {
+    "pair_id": "axis_confound_010",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_010_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_010_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_010_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_010_B.png"
+  },
+  {
+    "pair_id": "axis_confound_011",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_011_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_011_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_011_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_011_B.png"
+  },
+  {
+    "pair_id": "axis_confound_012",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_012_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_012_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_012_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_012_B.png"
+  },
+  {
+    "pair_id": "axis_confound_013",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_013_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_013_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_013_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_013_B.png"
+  },
+  {
+    "pair_id": "axis_confound_014",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_014_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_014_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_014_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_014_B.png"
+  },
+  {
+    "pair_id": "axis_confound_015",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_015_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_015_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_015_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_015_B.png"
+  },
+  {
+    "pair_id": "axis_confound_016",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_016_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_016_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_016_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_016_B.png"
+  },
+  {
+    "pair_id": "axis_confound_017",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_017_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_017_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_017_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_017_B.png"
+  },
+  {
+    "pair_id": "axis_confound_018",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_018_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_018_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_018_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_018_B.png"
+  },
+  {
+    "pair_id": "axis_confound_019",
+    "label": "axis_confound",
+    "spec_a": "..\\data\\specs\\axis_confound_019_A.json",
+    "spec_b": "..\\data\\specs\\axis_confound_019_B.json",
+    "image_a": "..\\data\\stimuli\\axis_confound_019_A.png",
+    "image_b": "..\\data\\stimuli\\axis_confound_019_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_000",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_000_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_000_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_000_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_000_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_001",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_001_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_001_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_001_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_001_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_002",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_002_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_002_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_002_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_002_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_003",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_003_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_003_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_003_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_003_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_004",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_004_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_004_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_004_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_004_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_005",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_005_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_005_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_005_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_005_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_006",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_006_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_006_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_006_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_006_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_007",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_007_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_007_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_007_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_007_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_008",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_008_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_008_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_008_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_008_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_009",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_009_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_009_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_009_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_009_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_010",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_010_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_010_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_010_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_010_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_011",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_011_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_011_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_011_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_011_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_012",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_012_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_012_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_012_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_012_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_013",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_013_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_013_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_013_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_013_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_014",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_014_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_014_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_014_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_014_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_015",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_015_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_015_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_015_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_015_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_016",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_016_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_016_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_016_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_016_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_017",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_017_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_017_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_017_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_017_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_018",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_018_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_018_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_018_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_018_B.png"
+  },
+  {
+    "pair_id": "dimension_confound_019",
+    "label": "dimension_confound",
+    "spec_a": "..\\data\\specs\\dimension_confound_019_A.json",
+    "spec_b": "..\\data\\specs\\dimension_confound_019_B.json",
+    "image_a": "..\\data\\stimuli\\dimension_confound_019_A.png",
+    "image_b": "..\\data\\stimuli\\dimension_confound_019_B.png"
+  },
+  {
+    "pair_id": "multi_confound_000",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_000_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_000_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_000_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_000_B.png"
+  },
+  {
+    "pair_id": "multi_confound_001",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_001_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_001_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_001_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_001_B.png"
+  },
+  {
+    "pair_id": "multi_confound_002",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_002_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_002_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_002_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_002_B.png"
+  },
+  {
+    "pair_id": "multi_confound_003",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_003_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_003_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_003_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_003_B.png"
+  },
+  {
+    "pair_id": "multi_confound_004",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_004_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_004_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_004_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_004_B.png"
+  },
+  {
+    "pair_id": "multi_confound_005",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_005_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_005_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_005_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_005_B.png"
+  },
+  {
+    "pair_id": "multi_confound_006",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_006_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_006_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_006_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_006_B.png"
+  },
+  {
+    "pair_id": "multi_confound_007",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_007_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_007_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_007_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_007_B.png"
+  },
+  {
+    "pair_id": "multi_confound_008",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_008_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_008_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_008_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_008_B.png"
+  },
+  {
+    "pair_id": "multi_confound_009",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_009_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_009_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_009_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_009_B.png"
+  },
+  {
+    "pair_id": "multi_confound_010",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_010_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_010_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_010_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_010_B.png"
+  },
+  {
+    "pair_id": "multi_confound_011",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_011_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_011_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_011_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_011_B.png"
+  },
+  {
+    "pair_id": "multi_confound_012",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_012_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_012_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_012_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_012_B.png"
+  },
+  {
+    "pair_id": "multi_confound_013",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_013_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_013_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_013_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_013_B.png"
+  },
+  {
+    "pair_id": "multi_confound_014",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_014_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_014_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_014_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_014_B.png"
+  },
+  {
+    "pair_id": "multi_confound_015",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_015_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_015_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_015_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_015_B.png"
+  },
+  {
+    "pair_id": "multi_confound_016",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_016_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_016_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_016_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_016_B.png"
+  },
+  {
+    "pair_id": "multi_confound_017",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_017_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_017_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_017_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_017_B.png"
+  },
+  {
+    "pair_id": "multi_confound_018",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_018_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_018_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_018_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_018_B.png"
+  },
+  {
+    "pair_id": "multi_confound_019",
+    "label": "multi_confound",
+    "spec_a": "..\\data\\specs\\multi_confound_019_A.json",
+    "spec_b": "..\\data\\specs\\multi_confound_019_B.json",
+    "image_a": "..\\data\\stimuli\\multi_confound_019_A.png",
+    "image_b": "..\\data\\stimuli\\multi_confound_019_B.png"
+  }
+]
